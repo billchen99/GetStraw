@@ -1,1 +1,1 @@
-Clone from [Play it here!](http://mitchellgu.github.io/GetMIT/)
+Clone from http://mitchellgu.github.io/GetMIT/
